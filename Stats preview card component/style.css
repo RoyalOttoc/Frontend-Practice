@@ -55,9 +55,9 @@ body{
 
 .bottom-box{
     display: flex;
-    justify-content: space-evenly;
-    margin-top: 72px;
-    margin-left: -15px;
+    margin-top: 50px;
+    width: 374px;
+    margin-left: 40px;
     
 }
 .bottom-box .small-box{
@@ -102,7 +102,7 @@ body{
 .right-box .image{
     width: 100%;
     height: 100%;
-    background-image: url("/images/image-header-desktop.jpg");
+    background-image: url("https://i.ibb.co/z4f64tt/image-header-desktop.jpg");
     mix-blend-mode: multiply;
 }
 
@@ -173,6 +173,7 @@ color: #FFFFFF;
 .bottom-box{
     width: 100%;
     margin-top: 16px;
+    margin-left: -16px;
     flex-direction: column;
     align-items: center;
     
